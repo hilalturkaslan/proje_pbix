@@ -1,1 +1,1 @@
-power bi
+power bi ile uygulama geliştirildi.
